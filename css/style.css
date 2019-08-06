@@ -1,0 +1,28 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  background-color: lightyellow;
+  color: darkblue;
+  font-size: 1.5em; 
+  padding: 1.5em;
+}
+
+p {
+  background-color: lightblue;
+  color: darkgoldenrod;
+  margin: 1.5em;
+  padding: 1.5em;
+}
+
+ul {
+  margin: 1.5em;
+}
+
+li {
+  background-color: lightgreen;
+  color: darkviolet;
+  margin: 1.5em;
+  padding: 1.5em;
+}
